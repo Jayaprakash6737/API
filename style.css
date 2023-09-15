@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.card{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 250px;
+    height: 100px;
+   
+}
+.card-body{
+    background-color: aqua !important;
+    color: black !important;
+}
